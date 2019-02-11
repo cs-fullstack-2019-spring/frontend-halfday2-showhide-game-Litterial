@@ -25,5 +25,13 @@ Some Ideas:
 
 ### I IMPLEMENTED THE FOLLOWING NEW FEATURE(S):
 I added the new background option.
+I added music while player is playing.
+I added a fail queue if the user clicks make less than 70% less of their clicks.
+I added a victory theme after user hits at least 70%.
+Added Objective in h1
+Victory message in h2, updates when for each new game   
+
+Everything is in the mycode.js
+
 
 

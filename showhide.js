@@ -2,7 +2,7 @@ let clicks = 0;
 let targets = 0;
 let hits = 0;
 var grassbackground=document.getElementsByClassName('table');
-
+var victoryMessage=document.getElementsByTagName('h2');
 // Point of Entry called from HTML when page is loaded
 function letsRock() {
     let theGo = document.getElementById("goGetIt");
