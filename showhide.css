@@ -9,3 +9,9 @@ td {
     width: 100px;
     height: 100px;
 }
+
+
+.newOcean  /*adds new background*/
+{
+    background: url("ocean-background-png-hd-ocean-floor-background-png-1280.png") no-repeat;
+}

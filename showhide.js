@@ -1,6 +1,7 @@
 let clicks = 0;
 let targets = 0;
 let hits = 0;
+var grassbackground=document.getElementsByClassName('table');
 
 // Point of Entry called from HTML when page is loaded
 function letsRock() {
@@ -39,6 +40,7 @@ function clickedTarget(e) {
     console.log("Got a Hit!");
     // Update their hit score
     hits += 1;
+
 }
 
 function testThis(el) {
@@ -58,6 +60,10 @@ function setUpTargetsAndPlay(numberOfTargets, displayTimeMs) {
         if (clicks === targets) {  // Player out of clicks!
             // FIXME: Sometime at end of game hits are more than 5 for some reason which should be impossible
             alert("No more clicks! You got " + hits + " out of " + targets);
+            if ((hits/targets)*100<70)
+            {
+
+            }
             // Turn off click detection
             $("td").off("click");
             $("table").off("click");

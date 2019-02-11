@@ -24,6 +24,6 @@ Some Ideas:
 #### The starter project includes jQuery and BootStrap, but you can enhance the game using any technology that you wish
 
 ### I IMPLEMENTED THE FOLLOWING NEW FEATURE(S):
-
+I added the new background option.
 
 
