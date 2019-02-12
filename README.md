@@ -1,3 +1,6 @@
+### POINTS: 2	
+### KEY: WOW Man. Figuring out the audio like that? Epic stuff. Well done! I let Decisive Battle play through in it's entirety!
+
 # JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
